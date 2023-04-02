@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap"); 
+@import url("Components/card.css");
+@import url("Components/container.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Signika', sans-serif;
+	font-weight: bold;
+}
+
+h2{ 
+	color: #99582A;
+	margin: 40px;
+ }
+
+a {
+	text-decoration: none;
+}
+
+element.style {
+	display: flex;
+	flex-wrap: wrap;
+}
